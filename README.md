@@ -7,4 +7,6 @@ Project Title: Team Performance Analysis: Unlocking Insights for Strategic Growt
 •	Identify top performers and underperformers
 •	Uncover regional and seasonal trends
 •	Provide key insights and actionable recommendations to improve team performance
+##Data Collection
+•	Data Source: The dataset was provided in an Excel file, containing monthly performance data for team members, including sponsorships gained, sponsorships targets, church bookings, and church booking targets
 
