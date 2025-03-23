@@ -12,5 +12,5 @@
 	**Data Preparation**:
 	The data was cleaned and reshaped using **Power Query** in Power BI to unpivot the monthly data into a long format.
 	Calculated columns and measures were created in Power BI using **DAX (Data Analysis Expressions)** to analyse performance gaps, tenure, and target achievement rates.
-
+## tOOLS USED AND WHY
 
