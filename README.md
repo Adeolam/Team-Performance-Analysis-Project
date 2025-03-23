@@ -1,6 +1,6 @@
 # COM TEAM PERFORMANCE ANALYSIS (JULY 2023 - JUN 2024)
 ## Project Overview
-Project Title: Team Performance Analysis: Unlocking Insights for Strategic Growth"
+**Project Title**: **Team Performance Analysis: Unlocking Insights for Strategic Growth"**
  Analyse the performance of a team in terms of sponsorships gained and bookings done over a 12-month period (July 2023 to June 2024) to 
 •	Show the overall and individual performance
 •	Compare actual performance against targets
@@ -8,6 +8,6 @@ Project Title: Team Performance Analysis: Unlocking Insights for Strategic Growt
 •	Uncover regional and seasonal trends
 •	Provide key insights and actionable recommendations to improve team performance
 
-###Data Collection
+###**Data Collection**
 •	Data Source: The dataset was provided in an Excel file, containing monthly performance data for team members, including sponsorships gained, sponsorships targets, church bookings, and church booking targets
 
